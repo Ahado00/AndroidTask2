@@ -10,4 +10,5 @@ This project covers the fundamental concepts of Kotlin programming using Android
 4- Write a function and use a lambda expression.
 
 ## Output Screenshot
-![لقطة شاشة 2025-03-04 134354](https://github.com/user-attachments/assets/ebdd2326-b17e-4948-869b-f85fe4ecaab9)
+![image](https://github.com/user-attachments/assets/463463df-ca85-4766-a7b6-d2a1a848a2df)
+
